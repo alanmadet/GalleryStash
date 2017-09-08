@@ -1,0 +1,10 @@
+C:\CodeBase\GalleryStash\GalleryStash\bin\Debug\netcoreapp1.1\GalleryStash.deps.json
+C:\CodeBase\GalleryStash\GalleryStash\bin\Debug\netcoreapp1.1\GalleryStash.runtimeconfig.json
+C:\CodeBase\GalleryStash\GalleryStash\bin\Debug\netcoreapp1.1\GalleryStash.runtimeconfig.dev.json
+C:\CodeBase\GalleryStash\GalleryStash\bin\Debug\netcoreapp1.1\GalleryStash.dll
+C:\CodeBase\GalleryStash\GalleryStash\bin\Debug\netcoreapp1.1\GalleryStash.pdb
+C:\CodeBase\GalleryStash\GalleryStash\obj\Debug\netcoreapp1.1\GalleryStash.csprojResolveAssemblyReference.cache
+C:\CodeBase\GalleryStash\GalleryStash\obj\Debug\netcoreapp1.1\GalleryStash.csproj.CoreCompileInputs.cache
+C:\CodeBase\GalleryStash\GalleryStash\obj\Debug\netcoreapp1.1\GalleryStash.AssemblyInfo.cs
+C:\CodeBase\GalleryStash\GalleryStash\obj\Debug\netcoreapp1.1\GalleryStash.dll
+C:\CodeBase\GalleryStash\GalleryStash\obj\Debug\netcoreapp1.1\GalleryStash.pdb

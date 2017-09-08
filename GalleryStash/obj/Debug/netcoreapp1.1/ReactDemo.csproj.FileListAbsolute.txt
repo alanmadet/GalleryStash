@@ -1,0 +1,10 @@
+C:\Users\alanm\source\repos\ReactDemo\ReactDemo\bin\Debug\netcoreapp1.1\ReactDemo.deps.json
+C:\Users\alanm\source\repos\ReactDemo\ReactDemo\bin\Debug\netcoreapp1.1\ReactDemo.runtimeconfig.json
+C:\Users\alanm\source\repos\ReactDemo\ReactDemo\bin\Debug\netcoreapp1.1\ReactDemo.runtimeconfig.dev.json
+C:\Users\alanm\source\repos\ReactDemo\ReactDemo\bin\Debug\netcoreapp1.1\ReactDemo.dll
+C:\Users\alanm\source\repos\ReactDemo\ReactDemo\obj\Debug\netcoreapp1.1\ReactDemo.csprojResolveAssemblyReference.cache
+C:\Users\alanm\source\repos\ReactDemo\ReactDemo\obj\Debug\netcoreapp1.1\ReactDemo.csproj.CoreCompileInputs.cache
+C:\Users\alanm\source\repos\ReactDemo\ReactDemo\obj\Debug\netcoreapp1.1\ReactDemo.AssemblyInfo.cs
+C:\Users\alanm\source\repos\ReactDemo\ReactDemo\bin\Debug\netcoreapp1.1\ReactDemo.pdb
+C:\Users\alanm\source\repos\ReactDemo\ReactDemo\obj\Debug\netcoreapp1.1\ReactDemo.dll
+C:\Users\alanm\source\repos\ReactDemo\ReactDemo\obj\Debug\netcoreapp1.1\ReactDemo.pdb
