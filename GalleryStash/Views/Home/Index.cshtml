@@ -1,16 +1,33 @@
-﻿@{
+﻿@model IEnumerable<ReactDemo.Models.CommentModel>
+@{
     Layout = null;
 }
 <!-- Learn to use layouts. Refer to old ASP.NET MVC tutorials-->
 <html>
 <head>
-    <title>Hello React</title>
+    <title>Gallery Stash</title>
 </head>
 <body>
-    <div id="content"></div>
+    @Html.React("CommentBox", new
+   {
+       initialData = Model,
+       url = Url.Action("Comments"),
+       submitUrl = Url.Action("AddComment"),
+       pollInterval = 2000,
+   })
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/react-bootstrap/0.31.3/react-bootstrap.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/react-bootstrap/0.31.3/react-bootstrap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/react-bootstrap/0.31.3/react-bootstrap.min.js.map"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/react/15.3.2/react.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/react/15.3.2/react-dom.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/remarkable/1.7.1/remarkable.min.js"></script>
+
     <script src="@Url.Content("~/js/tutorial.jsx")"></script>
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/latest/css/bootstrap.min.css">
+
+    <!-- Optional theme -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/latest/css/bootstrap-theme.min.css">
+    @Html.ReactInitJavaScript()
 </body>
 </html>

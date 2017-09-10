@@ -1,5 +1,5 @@
 {
-  "version": 3,
+  "version": 2,
   "targets": {
     ".NETCoreApp,Version=v1.1": {
       "JavaScriptEngineSwitcher.ChakraCore/2.4.8": {
@@ -10140,27 +10140,15 @@
   },
   "project": {
     "version": "1.0.0",
-    "restoreSettings": {
-      "hideWarningsAndErrors": true
-    },
     "restore": {
       "projectUniqueName": "C:\\CodeBase\\GalleryStash\\GalleryStash\\GalleryStash.csproj",
       "projectName": "GalleryStash",
       "projectPath": "C:\\CodeBase\\GalleryStash\\GalleryStash\\GalleryStash.csproj",
-      "packagesPath": "C:\\Users\\alanm\\.nuget\\packages\\",
       "outputPath": "C:\\CodeBase\\GalleryStash\\GalleryStash\\obj\\",
       "projectStyle": "PackageReference",
-      "configFilePaths": [
-        "C:\\Users\\alanm\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
-      ],
       "originalTargetFrameworks": [
         "netcoreapp1.1"
       ],
-      "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {}
-      },
       "frameworks": {
         "netcoreapp1.1": {
           "projectReferences": {}

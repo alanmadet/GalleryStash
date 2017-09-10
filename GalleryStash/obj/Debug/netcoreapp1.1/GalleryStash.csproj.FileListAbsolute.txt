@@ -4,7 +4,6 @@ C:\CodeBase\GalleryStash\GalleryStash\bin\Debug\netcoreapp1.1\GalleryStash.runti
 C:\CodeBase\GalleryStash\GalleryStash\bin\Debug\netcoreapp1.1\GalleryStash.dll
 C:\CodeBase\GalleryStash\GalleryStash\bin\Debug\netcoreapp1.1\GalleryStash.pdb
 C:\CodeBase\GalleryStash\GalleryStash\obj\Debug\netcoreapp1.1\GalleryStash.csprojResolveAssemblyReference.cache
-C:\CodeBase\GalleryStash\GalleryStash\obj\Debug\netcoreapp1.1\GalleryStash.csproj.CoreCompileInputs.cache
 C:\CodeBase\GalleryStash\GalleryStash\obj\Debug\netcoreapp1.1\GalleryStash.AssemblyInfo.cs
 C:\CodeBase\GalleryStash\GalleryStash\obj\Debug\netcoreapp1.1\GalleryStash.dll
 C:\CodeBase\GalleryStash\GalleryStash\obj\Debug\netcoreapp1.1\GalleryStash.pdb

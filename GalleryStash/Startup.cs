@@ -68,7 +68,12 @@ namespace ReactDemo
                 //config
                 //  .SetLoadBabel(false)
                 //  .AddScriptWithoutTransform("~/Scripts/bundle.server.js");
+
+                config
+                .AddScript("~/js/remarkable.min.js")
+                .AddScript("~/js/tutorial.jsx");
             });
+        
             app.UseStaticFiles();
 
             app.UseMvc(routes =>
